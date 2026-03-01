@@ -1,13 +1,5 @@
 # Sheswanth Gurram
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheswanth&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheswanth&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</p>
-
 ## About Me
 I am a software developer focused on building robust and scalable web applications. I specialize in solving complex problems through efficient code and modern architectural patterns.
 
