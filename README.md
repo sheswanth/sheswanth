@@ -1,9 +1,5 @@
 # Sheswanth Gurram
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sheswanth/sheswanth/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 ## About Me
 I am a software developer focused on building robust and scalable web applications. I specialize in solving complex problems through efficient code and modern architectural patterns.
 
@@ -34,6 +30,12 @@ I am a software developer focused on building robust and scalable web applicatio
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
   <img src="https://img.shields.io/badge/ServiceNow-CAD-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
   <img src="https://img.shields.io/badge/ServiceNow-CSA-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheswanth/sheswanth/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ## Connect
