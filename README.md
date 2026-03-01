@@ -1,12 +1,12 @@
 # Sheswanth Gurram
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheswanth&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheswanth&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheswanth&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheswanth&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheswanth&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheswanth&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ## About Me
@@ -32,32 +32,29 @@ I am a software developer focused on building robust and scalable web applicatio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## Achievements & Certifications
-- **HackerRank Problem Solving (Intermediate)**: Demonstrated proficiency in complex algorithm design and data structures.
-- **Google Cloud Skill Badge**: Practical experience with Vertex AI and multimodal RAG architectures.
-- **Java Silver Certification**: Validated expertise in Java SE platform development.
+## Achievements
 
-## Coding Profiles
-- [LeetCode](https://leetcode.com/u/sheswanth/)
-- [HackerRank](https://www.hackerrank.com/profile/sheswanth)
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Oracle-Java_Silver-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Silver" />
+</p>
 
 ## Featured Projects
 
-### LMS (Learning Management System)
-A platform for managing educational content, student enrollments, and progress tracking.
-
-### SEAMS (Student Extracurricular Activity Management System)
-A system designed to streamline the management of extracurricular activities in educational institutions.
-
-### Splitwise Clone
-A full-stack application for managing shared expenses within groups, featuring real-time updates and balance tracking.
-
-### Portfolio Website
-A personal showcase of skills, projects, and experiences, built with modern web technologies.
+<p align="center">
+  <a href="https://github.com/sheswanth/LMS"><img src="https://img.shields.io/badge/LMS-Education-blue?style=for-the-badge" alt="LMS" /></a>
+  <a href="https://github.com/sheswanth/SEAMS"><img src="https://img.shields.io/badge/SEAMS-Management-green?style=for-the-badge" alt="SEAMS" /></a>
+  <a href="https://github.com/sheswanth/Splitwise-Clone"><img src="https://img.shields.io/badge/Splitwise-Fintech-orange?style=for-the-badge" alt="Splitwise" /></a>
+  <a href="https://github.com/sheswanth/portfolio"><img src="https://img.shields.io/badge/Portfolio-Personal-lightgrey?style=for-the-badge" alt="Portfolio" /></a>
+</p>
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/sheswanth-gurram/)
-- [Gmail](mailto:gurramsheswanth@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheswanth-gurram/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gurramsheswanth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
