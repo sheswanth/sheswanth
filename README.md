@@ -28,8 +28,8 @@ I am a software developer focused on building robust and scalable web applicatio
 <p align="center">
   <img src="https://img.shields.io/badge/Red_Hat-Enterprise_App_Developer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce AI Associate" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Gen AI" />
+  <img src="https://img.shields.io/badge/ServiceNow-CAD-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
+  <img src="https://img.shields.io/badge/ServiceNow-CSA-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
 </p>
 
 ## Connect
