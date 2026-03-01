@@ -32,20 +32,6 @@ I am a software developer focused on building robust and scalable web applicatio
   <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Gen AI" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-EA0029?style=for-the-badge&logo=aviatrix&logoColor=white" alt="Aviatrix ACE" />
-  <img src="https://img.shields.io/badge/HackVega_2025-Merit-FFD700?style=for-the-badge&logo=hackaday&logoColor=black" alt="HackVega 2025" />
-  <img src="https://img.shields.io/badge/Automation_Anywhere-Professional_Essentials-FF671F?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere" />
-  <img src="https://img.shields.io/badge/AICTE-AI_&_ML_Internship-003366?style=for-the-badge" alt="AICTE" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Forage-Skyscanner_Front--End-00B2D8?style=for-the-badge" alt="Forage Skyscanner" />
-  <img src="https://img.shields.io/badge/Forage-AWS_Solutions_Architecture-232F3E?style=for-the-badge" alt="Forage AWS" />
-  <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualization-004B8D?style=for-the-badge" alt="Forage Tata" />
-  <img src="https://img.shields.io/badge/Coding_Ninjas-Young_Turks_Merit-FF8C00?style=for-the-badge" alt="Coding Ninjas" />
-</p>
-
 ## Connect
 
 <p align="center">
