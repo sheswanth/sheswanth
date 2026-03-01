@@ -1,5 +1,9 @@
 # Sheswanth Gurram
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheswanth/sheswanth/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 ## About Me
 I am a software developer focused on building robust and scalable web applications. I specialize in solving complex problems through efficient code and modern architectural patterns.
 
