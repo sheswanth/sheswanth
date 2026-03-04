@@ -1,7 +1,7 @@
 # Sheswanth Gurram
 
 ## About Me
-I am a software developer focused on building robust and scalable web applications. I specialize in solving complex problems through efficient code and modern architectural patterns.
+A passionate technology enthusiast with a strong interest in software development and building robust, scalable web applications. I enjoy solving complex problems through efficient code and continuously learning modern architectural patterns to strengthen my technical skills.
 
 ## Technical Ecosystem
 
